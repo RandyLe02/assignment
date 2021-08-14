@@ -52,19 +52,6 @@ p {
 	padding: 0 40px;
 }
 
-#headshot {
-	width: 12.5%;
-	float: left;
-	margin-right: 30px;
-}
-
-#headshot img {
-	width: 100%;
-	height: auto;
-	-webkit-border-radius: 50px;
-	border-radius: 50px;
-}
-
 #name {
 	float: left;
 }
@@ -188,9 +175,6 @@ section:last-child {
 		margin: 10px auto;
 		min-width: 280px;
 	}
-	
-	#headshot {
-		display: none;
 	}
 	
 	#name, #contactDetails {
